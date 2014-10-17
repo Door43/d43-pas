@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pas:home|Door43 (pas)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pas|d43-pas repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pas/archive/master.zip|d43-pas.zip]]
+
+**Recent Changes**
+{{changes>ns = pas}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pas|Ethnologue data]]
+
